@@ -8,4 +8,14 @@ section{    background-color: rgb(24, 10, 10);
     padding-top: 80px;
     display: flex;
     justify-content: center;}
+    <img{
+        height="200pix"
+    }>
+    
+.categoria-videos{
+    display: flex; 
+    overflow-x: auto;
+    gap: 20px;
+}
+    
     
