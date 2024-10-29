@@ -2,17 +2,22 @@ body{
     background-color: black; 
     color:blanchedalmond;
 }
-section{    background-color: rgb(24, 10, 10);
-    color: beige; background: rgb(68, 50, 87);
+section{  
+      background-color: rgb(24, 10, 10);
+    color: beige; 
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;}
     
+    .chamada-texto{
+        margin-right: 5%;
+    }
+
     img{
         height:200px;
     }
-        
+
 .categoria-videos{
     display: flex; 
     overflow-x: auto;
