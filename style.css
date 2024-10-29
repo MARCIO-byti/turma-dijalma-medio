@@ -10,8 +10,7 @@ section{    background-color: rgb(24, 10, 10);
     justify-content: center;}
     <img{
         height="200pix"
-    }>
-    
+    }>    
 .categoria-videos{
     display: flex; 
     overflow-x: auto;
